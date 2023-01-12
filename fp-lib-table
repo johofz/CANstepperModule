@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "WR-WTB")(type "Eagle")(uri "${KIPRJMOD}/Lib/Eagle_WR-WTB (rev20a).lib")(options "")(descr ""))
+)
